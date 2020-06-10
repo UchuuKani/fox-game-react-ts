@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Introduction
+
+This project is a continuation from Brian Holt's (@holtbt on Twitter) Frontend Masters course, course site @ `https://btholt.github.io/project-fox-game-site/`
+
+This is an attempt at rewriting the app using `React` and `Typescript`, and for getting familar with the `XState` library by using it to refactor the original state machine code which handles game logic.
+
 ## Available Scripts
 
 In the project directory, you can run:
